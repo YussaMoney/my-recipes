@@ -1,0 +1,22 @@
+body{
+    color: red;
+}
+div{
+    color: #000;
+    border-style: solid;
+    margin-top: -20px;
+    height: 80px;
+    width: 500px;
+
+}
+ul{
+    color: #000;
+}
+ol{
+    color: #000;
+}
+
+p{
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
