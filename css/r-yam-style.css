@@ -1,22 +1,42 @@
 body{
     color: red;
+    background-color: aqua;
 }
 div{
     color: #000;
-    border-style: solid;
-    margin-top: -20px;
-    height: 80px;
-    width: 500px;
-
+    margin-top: -20.70px;
+    
 }
+
+h2, h3{
+    color: red;
+}
+.des{
+    background: rgb(166, 225, 150);
+    width: 490px;
+    
+}
+p{
+    margin-top: -14.70px;
+}
+
 ul{
+    background: burlywood;
+    margin-top: -15.70px;
     color: #000;
+    width: 350px;
+
 }
 ol{
+    background: rgb(141, 113, 10);
+    margin-top: -15.70px;
     color: #000;
+    width: 850px;
 }
-
-p{
-    margin-top: -5px;
-    margin-bottom: 5px;
+.ing{
+    margin-left: 500px;
+    margin-top: -118px;    
+}
+h2{
+    margin-bottom: 23px;
 }
